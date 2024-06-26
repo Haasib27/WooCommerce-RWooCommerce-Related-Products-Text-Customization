@@ -2,7 +2,7 @@
 This snippet replaces the "Related Products" text with a custom phrase. Despite using Loco Translate, the default WooCommerce translation for "Related Products" might not change. Adding this code to your theme's functions.php file solves the issue.
 
 
-# Add the following code from WooCommerce.php file to your theme's functions.php file.
+# Add the code from woocommerce-related-products-text-customization.php file to your theme's functions.php file.
 
 # How It Works:
 
